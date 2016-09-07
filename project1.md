@@ -22,7 +22,7 @@ Examples:
 
 ## Getting Started
 
-- Fork the [starter repo project](https://github.com/thebsides/kcc-nma-art258-starter) on github.com (not your desktop GitHub client).
+- Fork the [starter repo project](https://github.com/simplesessions/kcc-nma-art258-starter) on github.com (not your desktop GitHub client).
 - Rename the project "kcc-nma-art258-project-X" where X is the number of the project.
 - After forking the project, make sure you're in the "plain" branch until we're used to using Gulp.
 - Open up the GitHub Desktop Client and clone your repository.
