@@ -41,7 +41,7 @@ When you commit code, it's like you're locally saving the changes that you made 
 
 This project will be due by the beginning of class on Thursday, September 15.
 
-Simply committing to the repo will be "turning it in", as your page will show up at http://_username_.github.io/_project-name_
+Simply committing then publishing your code to the repo will be "turning it in", as your page will show up at http://_username_.github.io/_project-name_. Note that you can publish your code as many times as you want – this is how Git works. You basically just keep making changes to your code, then publish it to GitHub in order to save your work.
 
 ## Other Notes
 
