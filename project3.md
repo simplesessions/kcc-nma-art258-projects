@@ -36,7 +36,22 @@ Congratulations! You've made it all the way to the end. For our final project, y
 - 30% - JavaScript - See above for the requirements specific requirements. Your JS must all work, and I should be able to compile your JS from the src folder and have everything work with no errors.
 - 20% - HTML - your HTML should be nested correctly (with a little wiggle room for indentation differences). You should also stay away from bad naming practices when naming your classes.
 
+## Getting Started
+
+- Download the starter project from https://github.com/simplesessions/kcc-nma-art258-starter
+- Rename the project to "art258-final"
+- Use GitHub to create a new repo from this project named "art258-final"
+- Push/sync your changes to your GitHub account
+
+## Turning In Your Project
+
+I will consider all commits made until midnight of December 13th, 2016 (technically 12:00am of December 14th, 2016). Simply make sure all your changes are committed to your repo by then. When you're finished, even if early, send me an email to let me know when you're done.
+
+Then party 🎉🎉🎉
+
 ## Examples
+
+Utilize these examples for prime examples of some product-focused pages.
 
 - https://squareup.com
 - https://wistia.com/product
