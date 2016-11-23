@@ -27,7 +27,7 @@ Congratulations! You've made it all the way to the end. For our final project, y
 - Must utilize at least four media queries, and have layouts that work correctly from a size of 320px to at least 1200px and above.
 - An appeal to the user to buy/use your product (call to action).
 - Make use of CSS transitions.
-- For the areas that explain about the project, they must have more than a line of text describing the project. Although this is a coding class, this is meant to also challenge layout changes with varying text.
+- For the areas that explain about the product, they must have more than a line of text describing the product. Although this is a coding class, this is meant to also challenge layout changes with varying text.
 
 ## Grading
 
@@ -42,6 +42,10 @@ Congratulations! You've made it all the way to the end. For our final project, y
 - Rename the project to "art258-final"
 - Use GitHub to create a new repo from this project named "art258-final"
 - Push/sync your changes to your GitHub account
+
+## References
+
+[Source folder from week 9](https://www.dropbox.com/s/h7dhm6a730zfagr/class9-src.zip?dl=0)
 
 ## Turning In Your Project
 
