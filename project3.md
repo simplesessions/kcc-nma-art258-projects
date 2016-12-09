@@ -49,7 +49,7 @@ Congratulations! You've made it all the way to the end. For our final project, y
 
 ## Turning In Your Project
 
-I will consider all commits made until midnight of December 13th, 2016 (technically 12:00am of December 14th, 2016). Simply make sure all your changes are committed to your repo by then. When you're finished, even if early, send me an email to let me know when you're done.
+I will consider all commits made until midnight of December 14th, 2016 (technically 12:00am of December 15th, 2016). Simply make sure all your changes are committed to your repo by then. When you're finished, even if early, send me an email to let me know when you're done.
 
 Then party 🎉🎉🎉
 
